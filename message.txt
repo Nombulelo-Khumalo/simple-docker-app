@@ -1,0 +1,2 @@
+Hello from Docker!
+Congrats, your app is working and running smoothly
